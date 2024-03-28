@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Enzo+Guillouche;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
-<h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, computer science is the field I want to be<br>Developing rhymes with appealing!</h4>
+<h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, computer science is the field I want to be<br>Developing rhymes with appealing!<!--ALGOSUP Student Council's Secretary--></h4>
 
 - 🔭 My current school project is [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-2) as a Technical Writer.
 
