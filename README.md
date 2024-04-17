@@ -42,17 +42,19 @@
   <a href="https://github.com/EnzoGuillouche?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ Languages and Tools</h2></summary>
 
 <h3>👨‍💻 Learned languages:</h3>
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 
   <h3>📚 Studying in this moment:</h3>
-
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc/)
+  
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
 
   <h3>🧰 Tools:</h3>
 
