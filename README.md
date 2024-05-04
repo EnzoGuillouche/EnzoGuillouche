@@ -2,7 +2,7 @@
 
 <h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, computer science is the field I want to be<br>Developing rhymes with appealing!<!--ALGOSUP Student Council's Secretary--></h4>
 
-- 🔭 My current school project is [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-2) as a Technical Writer.
+- 🔭 My current school project is [**Adopt a Candidate**](https://github.com/algosup/2023-2024-project-5-flutter-team-1) [DEAD LINK] as a Technical Leader.
 
 <br>
 <hr>
@@ -22,7 +22,6 @@
     <a href="https://github.com/EnzoGuillouche/MemoryMate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=MemoryMate&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MemoryMate"></a>
     <a href="https://github.com/EnzoGuillouche/MazAdventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=MazAdventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MazAdventure"></a>
     <a href="https://github.com/LucasMegnan/Pixel-Showdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasMegnan&repo=Pixel-Showdown&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pixel Showdown"></a>
-    <a href="https://github.com/EnzoGuillouche/Flutter-learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=Flutter-learning&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Learning"></a>
   </p>
 
   <a href="https://github.com/EnzoGuillouche?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
@@ -35,7 +34,6 @@
 
   <p align="left">
       <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-4-sportshield-team-2"></a>
-    <a href="https://github.com/EnzoGuillouche/MazAdventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=MazAdventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MazAdventure"></a>
     <a href="https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-3-virtual-processor-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-3-virtual-processor-team-2"></a>
     <a href="https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-7"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-2-x86-retrogaming-team-7&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-2-x86-retrogaming-team-7"></a>
   </p>
