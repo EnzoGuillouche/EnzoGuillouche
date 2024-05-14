@@ -2,7 +2,7 @@
 
 <h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, computer science is the field I want to be<br>Developing rhymes with appealing!<!--ALGOSUP Student Council's Secretary--></h4>
 
-- 🔭 My current school project is [**Adopt a Candidate**](https://github.com/algosup/2023-2024-project-5-flutter-team-1) [DEAD LINK] as a Technical Leader.
+- 🔭 My current school project is [**Adopt a Candidate**](https://github.com/algosup/2023-2024-project-5-flutter-team-1) as a Technical Leader.
 
 <br>
 <hr>
