@@ -11,8 +11,8 @@
 <br>  
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=EnzoGuillouche&show_icons=true&theme=radical" alt="Enzo's contributions" />
- <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuillouche&show_icons=true&locale=en&layout=donut&theme=radical" alt="Enzo's most used langages" />
+ <img src="https://github-readme-stats.vercel.app/api?username=EnzoGuillouche&show_icons=true&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuillouche&theme=tokyonight">
 </div>
 
 
