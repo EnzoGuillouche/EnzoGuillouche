@@ -21,8 +21,9 @@
 
   <p align="left">
     <a href="https://github.com/EnzoGuillouche/MemoryMate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=MemoryMate&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MemoryMate"></a>
+   <a href="https://github.com/EnzoGuillouche/PixelShowdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=PixelShowdown&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pixel Showdown"></a>
     <a href="https://github.com/EnzoGuillouche/MazAdventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=MazAdventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MazAdventure"></a>
-    <a href="https://github.com/EnzoGuillouche/PixelShowdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=PixelShowdown&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pixel Showdown"></a>
+    <a href="https://github.com/EnzoGuillouche/GymBro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=GymBro&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Gym Bro"></a>    
   </p>
 
   <a href="https://github.com/EnzoGuillouche?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
@@ -31,7 +32,7 @@
 <br>
 
 <details> 
-  <summary><h2>📘 Projects I worked on</h2></summary>
+  <summary><h2>📘 School Projects I worked on</h2></summary>
 
   <p align="left">
       <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-4-sportshield-team-2"></a>
@@ -53,20 +54,19 @@
   <h3>📚 Studying in this moment:</h3>
   
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c#"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
   <h3>🧰 Tools:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=notion"/>](https://notion.so/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=stackoverflow"/>](https://stackoverflow.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](https://www.google.com/intl/fr/gmail/about/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
 </details>
 
