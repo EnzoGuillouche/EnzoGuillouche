@@ -22,6 +22,7 @@
   <p align="left">
     <a href="https://github.com/EnzoGuillouche/MemoryMate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=MemoryMate&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MemoryMate"></a>
    <a href="https://github.com/EnzoGuillouche/PixelShowdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=PixelShowdown&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pixel Showdown"></a>
+   <a href="https://github.com/EnzoGuillouche/GymBro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=GymBro&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GymBro"></a>
     <a href="https://github.com/EnzoGuillouche/MazAdventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=MazAdventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MazAdventure"></a>
   </p>
 
