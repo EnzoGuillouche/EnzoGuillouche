@@ -6,8 +6,11 @@
 - :sparkles: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
 
 <br>
-<hr>
+<h3>Spotify Activity</h3>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312iifdspscygobttfwboox7vd4m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<hr>
 <br>  
 
 <div align="center" style="margin-bottom:200px">
