@@ -5,11 +5,6 @@
 - 🔭 My current school project is [**Adopt a Candidate**](https://github.com/algosup/2023-2024-project-5-flutter-team-1) as a Technical Leader.
 - :sparkles: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
 
-<br>
-<h3>Spotify Activity</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312iifdspscygobttfwboox7vd4m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <hr>
 <br>  
 
