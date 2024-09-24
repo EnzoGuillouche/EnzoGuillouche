@@ -2,7 +2,7 @@
 
 <h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, computer science is the field I want to be<br>Developing goes with improving!<!--ALGOSUP Student Council's Secretary--></h4>
 
-- 🔭 My current school project is [**FPGA Verilog**](https://github.com/algosup/2023-2024-project-1-fpga-team-6) as a Project Manager.
+- 🔭 My current school project is [**Frogger in FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-6) as a Project Manager.
 - :sparkles: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
 
 <hr>
