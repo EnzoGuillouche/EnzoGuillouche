@@ -49,11 +49,10 @@
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
 
   <h3>📚 Studying in this moment:</h3>
-  
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c#"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
