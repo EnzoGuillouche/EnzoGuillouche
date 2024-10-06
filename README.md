@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Enzo+Guillouche;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
-<h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, computer science is the field I want to be<br>Developing goes with improving!<!--ALGOSUP Student Council's Secretary--></h4>
+<h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, computer science is the field I want to be<br>Developing goes with improving! </h4>
+ <h3 align="center"> ALGOSUP Student Council's Vice President </h3>
 
+- :sparkles: My Moonshot project is [**MemoryMate**](https://github.com/EnzoGuillouche/MemoryMate).
 - 🔭 My current school project is [**Frogger in FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-6) as a Project Manager.
-- :sparkles: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
+- 🫨: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
 
 <hr>
 <br>  
@@ -32,8 +34,13 @@
 <details> 
   <summary><h2>📘 School Projects I worked on</h2></summary>
 
+**2024-2025**
   <p align="left">
     <a href="https://github.com/algosup/2024-2025-project-1-fpga-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-1-fpga-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024-2025-project-1-fpga-team-6"></a>
+  </p>
+
+**2023-2024**
+ <p align="left">
    <a href="https://github.com/algosup/2023-2024-project-5-flutter-team-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-5-flutter-team-1&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-5-flutter-team-1"></a>
     <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-4-sportshield-team-2"></a>
     <a href="https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-3-virtual-processor-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-3-virtual-processor-team-2"></a>
@@ -48,14 +55,16 @@
 
 <h3>👨‍💻 Learned languages:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
+[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/ac7bd2c4-e047-4102-a2d6-b685c1f823be"/>](https://en.wikipedia.org/wiki/Assembly_language)
+[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/d3e5d81d-03e4-4c93-bb5d-fb65be12fc3c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/3ca98208-ea96-4493-b5ab-79209357d48d"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/91e0de95-f371-4d85-828f-fa4f730bea4b"/>](https://flutter.dev)
+[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/ecc6753e-8e82-4499-be86-b9a2f8726765"/>](https://en.wikipedia.org/wiki/Verilog)
 
   <h3>📚 Studying in this moment:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c#"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img height="48px" width="75px" src="https://github.com/user-attachments/assets/f9e13bfc-f4cf-4ee4-8165-8bbfecf4ddc9"/>](https://unity.com)
+[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/b323725a-5de7-4ce2-a06d-955df862d1b4"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
   <h3>🧰 Tools:</h3>
 
@@ -64,6 +73,7 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=notion"/>](https://notion.so/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=stackoverflow"/>](https://stackoverflow.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i="/>](https://www.microsoft.com/en-us/windows)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
