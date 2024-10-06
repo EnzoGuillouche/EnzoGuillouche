@@ -55,27 +55,32 @@
 
 <h3>👨‍💻 Learned languages:</h3>
 
-[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/ac7bd2c4-e047-4102-a2d6-b685c1f823be"/>](https://en.wikipedia.org/wiki/Assembly_language)
-[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/d3e5d81d-03e4-4c93-bb5d-fb65be12fc3c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/3ca98208-ea96-4493-b5ab-79209357d48d"/>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/91e0de95-f371-4d85-828f-fa4f730bea4b"/>](https://flutter.dev)
-[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/ecc6753e-8e82-4499-be86-b9a2f8726765"/>](https://en.wikipedia.org/wiki/Verilog)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=md"/>](https://en.wikipedia.org/wiki/Markdown)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=py"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://en.wikipedia.org/wiki/C%2B%2B)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
+
 
   <h3>📚 Studying in this moment:</h3>
 
-[<img height="48px" width="75px" src="https://github.com/user-attachments/assets/f9e13bfc-f4cf-4ee4-8165-8bbfecf4ddc9"/>](https://unity.com)
-[<img height="48px" width="48px" src="https://github.com/user-attachments/assets/b323725a-5de7-4ce2-a06d-955df862d1b4"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=v"/>](https://en.wikipedia.org/wiki/Verilog)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
   <h3>🧰 Tools:</h3>
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=githubactions"/>](https://github.com/features/actions)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=notion"/>](https://notion.so/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=stackoverflow"/>](https://stackoverflow.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i="/>](https://www.microsoft.com/en-us/windows)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
 </details>
 
@@ -84,6 +89,6 @@
 
 ## Contact me:
 <div align="center">
-    <a href = "mailto: enzo.guillouche@algosup.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/enzoguillouche/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href = "mailto: enzoguillouche@gmail.com"><img loading="lazy" src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/enzoguillouche/" target="_blank"><img loading="lazy" src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>   
 </div>
