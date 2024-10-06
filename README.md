@@ -12,7 +12,7 @@
 
 <div align="center" style="margin-bottom:200px">
  <img src="https://github-readme-stats.vercel.app/api?username=EnzoGuillouche&show_icons=true&theme=tokyonight">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuillouche&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuillouche&layout=pie&theme=tokyonight">
 </div>
 
 
