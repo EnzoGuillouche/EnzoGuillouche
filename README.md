@@ -4,7 +4,7 @@
  <h3 align="center"> ALGOSUP Student Council's Vice President </h3>
 
 - :sparkles: My Moonshot project is [**MemoryMate**](https://github.com/EnzoGuillouche/MemoryMate).
-- 🔭 My current school project is [**Frogger in FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-6) as a Project Manager.
+- 🔭 My current school project is [**Frogger in FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-6) as a **Project Manager**.
 - 🫨: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
 
 <hr>
