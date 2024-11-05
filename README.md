@@ -4,7 +4,7 @@
  <h3 align="center"> ALGOSUP Student Council's Vice President </h3>
 
 - :sparkles: My Moonshot project is [**MemoryMate**](https://github.com/EnzoGuillouche/MemoryMate).
-- 🐸 My current school project is [**Frogger in FPGA**](https://github.com/algosup/2024-2025-project-1-fpga-team-6) as a **Project Manager**.
+- 👩🏽‍🚀 My current school project is [**Serious Game Design**](https://github.com/algosup/2024-2025-project-2-serious-game-team-6) as a **Program Manager**.
 - 🎮: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
 
 <hr>
@@ -35,6 +35,7 @@
 
 **2024-2025**
   <p align="left">
+    <a href="https://github.com/algosup/2024-2025-project-2-serious-game-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-2-serious-game-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024-2025-project-2-serious-game-team-6"></a>
     <a href="https://github.com/algosup/2024-2025-project-1-fpga-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-1-fpga-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024-2025-project-1-fpga-team-6"></a>
   </p>
 
@@ -60,12 +61,13 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=v"/>](https://en.wikipedia.org/wiki/Verilog)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
   <h3>📚 Studying in this moment:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=v"/>](https://en.wikipedia.org/wiki/Verilog)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=godot"/>](https://godotengine.org)
 
   <h3>🧰 Tools:</h3>
 
