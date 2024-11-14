@@ -4,7 +4,7 @@
  <h3 align="center"> ALGOSUP Student Council's Vice President </h3>
 
 - :sparkles: My Moonshot project is [**MemoryMate**](https://github.com/EnzoGuillouche/MemoryMate).
-- 👩🏽‍🚀 My current school project is [**Serious Game Design**](https://github.com/algosup/2024-2025-project-2-serious-game-team-6) as a **Program Manager** and a **Game Design**.
+- 👩🏽‍🚀 My current school project is [**Serious Game Design**](https://github.com/algosup/2024-2025-project-2-serious-game-team-6) as a **Program Manager** and a **Game Designer**.
 - 🎮: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
 
 <hr>
