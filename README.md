@@ -5,7 +5,7 @@
 
 - :sparkles: My Moonshot project is [**MemoryMate**](https://github.com/EnzoGuillouche/MemoryMate).
 - 👩🏽‍🚀 My current school project is [**Serious Game Design**](https://github.com/algosup/2024-2025-project-2-serious-game-team-6) as a **Program Manager** and a **Game Designer**.
-- 🎮: My current personal project is [**Pixel Showdown**](https://github.com/EnzoGuillouche/PixelShowdown) in association with [Lucas Megnan](https://github.com/LucasMegnan).
+- 🎮: Besides, I develop games [**on Unity**](https://github.com/EnzoGuillouche/PixelShowdown) and other stuff.
 
 <hr>
 <br>  
@@ -47,7 +47,6 @@
     <a href="https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-7"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-2-x86-retrogaming-team-7&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-2-x86-retrogaming-team-7"></a>
   </p>
 
-  <a href="https://github.com/EnzoGuillouche?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
 </details>
 
 <details open> 
