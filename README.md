@@ -5,7 +5,7 @@
 
 - :sparkles: My Moonshot project is [**MemoryMate**](https://github.com/EnzoGuillouche/MemoryMate).
 - 👩🏽‍🚀 My current school project is [**Serious Game Design**](https://github.com/algosup/2024-2025-project-2-serious-game-team-6) as a **Program Manager** and a **Game Designer**.
-- 🎮: Besides, I develop games [**on Unity**](https://github.com/EnzoGuillouche/PixelShowdown) and other stuff.
+- 🎮 Besides, I develop games [**on Unity**](https://github.com/EnzoGuillouche/PixelShowdown) and other stuff.
 
 <hr>
 <br>  
