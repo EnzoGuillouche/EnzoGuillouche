@@ -18,9 +18,11 @@
 
 <details open> 
   <summary><h2>📕 My Personal Projects</h2></summary>
+https://github.com/EnzoGuillouche/Arcade-games
 
   <p align="left">
     <a href="https://github.com/EnzoGuillouche/MemoryMate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=MemoryMate&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MemoryMate"></a>
+    <a href="https://github.com/EnzoGuillouche/Arcade-games"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=Arcade-games&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Arcade-games"></a>
    <a href="https://github.com/EnzoGuillouche/PixelShowdown"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=PixelShowdown&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Pixel Showdown"></a>
    <a href="https://github.com/EnzoGuillouche/GymBro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EnzoGuillouche&repo=GymBro&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="GymBro"></a>
   </p>
