@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="100%" height="200px" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    text {
-      font-family: sans-serif;
-      font-size: 20px;
-      fill: white;
-      text-anchor: middle;
-    }
-  </style>
-  <text x="50%" y="50%" dominant-baseline="middle">
+<svg width="100%" height="300px" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @font-face {
+        font-family: 'Hammersmith One';
+        src: url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+      }
+      text {
+        font-family: 'Hammersmith One', sans-serif;
+        font-size: 20px;
+        fill: white;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+  <text x="50%" y="30%" dominant-baseline="middle">
     <tspan x="50%" dy="-1.5em">I'm Enzo, a challenge-oriented full-stack developer.</tspan>
     <tspan x="50%" dy="1.2em">I create digital solutions that enable businesses and individuals to thrive.</tspan>
     <tspan x="50%" dy="1.2em">With a problem-solving mindset and a drive for innovation,</tspan>
