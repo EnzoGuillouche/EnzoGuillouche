@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Enzo+Guillouche;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
-<h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, computer science is the field I want to be<br>Developing goes with improving! </h4>
- <h3 align="center"> ALGOSUP Student Council's Vice President </h3>
+<h3 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a><br>Developing goes with improving! </h3>
 
 - :sparkles: My Moonshot project is [**SeismoSense**](https://github.com/EnzoGuillouche/SeismoSense).
 - 👩🏽‍🚀 My current school project is a [**FPGA web simulator**](https://github.com/algosup/2024-2025-project-4-web-fpga-team-7) as a **Software Engineer**.
-- 🎮 Besides, I develop games [**on Unity**](https://github.com/EnzoGuillouche/PixelShowdown) and other stuff.
+- 🎮 Besides, I develop [**side projects**](https://github.com/EnzoGuillouche?tab=repositories)...
 
 <hr>
 <br>  
