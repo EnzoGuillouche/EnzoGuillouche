@@ -8,7 +8,11 @@
       text-anchor: middle;
     }
   </style>
-  <text x="100%" y="100%" dominant-baseline="middle">
-    I'm Enzo, a challenge-oriented full-stack developer. I create digital solutions that enable businesses and individuals to thrive. With a problem-solving mindset and a drive for innovation, we will choose together the right technologies to meet your needs, from low-level assembly to cutting-edge web frameworks.
+  <text x="50%" y="50%" dominant-baseline="middle">
+    <tspan x="50%" dy="-1.5em">I'm Enzo, a challenge-oriented full-stack developer.</tspan>
+    <tspan x="50%" dy="1.2em">I create digital solutions that enable businesses and individuals to thrive.</tspan>
+    <tspan x="50%" dy="1.2em">With a problem-solving mindset and a drive for innovation,</tspan>
+    <tspan x="50%" dy="1.2em">we will choose together the right technologies to meet your needs,</tspan>
+    <tspan x="50%" dy="1.2em">from low-level assembly to cutting-edge web frameworks.</tspan>
   </text>
 </svg>
