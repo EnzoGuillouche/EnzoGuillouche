@@ -5,7 +5,7 @@
 <h3 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a><br>Developing goes with improving! </h3>
 
 - :sparkles: My Moonshot project is [**SeismoSense**](https://github.com/EnzoGuillouche/SeismoSense).
-- 👩🏽‍🚀 My current school project is a [**FPGA web simulator**](https://github.com/algosup/2024-2025-project-4-web-fpga-team-7) as a **Software Engineer**.
+- 👩🏽‍🚀 My current school project is a [**Bubble app**](https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-6) as a **Quality Assurance**.
 - 🎮 Besides, I develop [**side projects**](https://github.com/EnzoGuillouche?tab=repositories)...
 
 <hr>
@@ -39,6 +39,7 @@
 
 **2024-2025**
   <p align="left">
+    <a href="https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-5-bubble-intermarche-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024-2025-project-5-bubble-intermarche-team-6"></a>
     <a href="https://github.com/algosup/2024-2025-project-4-web-fpga-team-7"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-4-web-fpga-team-7&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024-2025-project-4-web-fpga-team-7"></a>
     <a href="https://github.com/algosup/2024-2025-project-3-quickest-path-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-3-quickest-path-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024-2025-project-3-quickest-path-team-6"></a>
     <a href="https://github.com/algosup/2024-2025-project-2-serious-game-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-2-serious-game-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2024-2025-project-2-serious-game-team-6"></a>
