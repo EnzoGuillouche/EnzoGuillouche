@@ -70,12 +70,13 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=v"/>](https://en.wikipedia.org/wiki/Verilog)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=godot"/>](https://godotengine.org)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.google.com/search?client=safari&rls=en&q=typescript&ie=UTF-8&oe=UTF-8)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vite"/>](https://vite.dev)
 
   <h3>📚 Studying in this moment:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>]()
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>]()
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vite"/>]()
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=raspberrypi"/>]()
 
   <h3>🧰 Tools:</h3>
 
