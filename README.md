@@ -2,7 +2,7 @@
 
 ![Enzo Intro](https://github.com/EnzoGuillouche/EnzoGuillouche/raw/main/Enzo.svg)
 
-<h3 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a><br>Developing goes with improving! </h3>
+<h3 align="center"> Developing goes with improving! </h3>
 
 - :sparkles: My Moonshot project is [**SeismoSense**](https://github.com/EnzoGuillouche/SeismoSense), an earthquake simulator.
 - 👩🏽‍🚀 My current school project is a [**Bubble app**](https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-6) as a **Quality Assurance**.
