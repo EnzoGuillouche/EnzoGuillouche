@@ -61,36 +61,38 @@
 
 <h3>👨‍💻 Learned languages:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=md"/>](https://en.wikipedia.org/wiki/Markdown)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=py"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=v"/>](https://en.wikipedia.org/wiki/Verilog)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cs"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=godot"/>](https://godotengine.org)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.google.com/search?client=safari&rls=en&q=typescript&ie=UTF-8&oe=UTF-8)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vite"/>](https://vite.dev)
+<kbd><img src="https://img.icons8.com/?size=192&id=gVK745a4Vaur&format=png" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40px"></kbd>
 
   <h3>📚 Studying in this moment:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=raspberrypi"/>]()
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="40px"></kbd>
 
   <h3>🧰 Tools:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=githubactions"/>](https://github.com/features/actions)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=notion"/>](https://notion.so/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=stackoverflow"/>](https://stackoverflow.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=unity"/>](https://unity.com)
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40px"></kbd>
+<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40px"></kbd>
 </details>
 
 
