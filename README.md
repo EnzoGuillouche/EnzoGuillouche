@@ -88,7 +88,6 @@
 <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40px"></kbd>
 <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40px"></kbd>
 <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40px"></kbd>
 <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px"></kbd>
 <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg" height="40px"></kbd>
 <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40px"></kbd>
