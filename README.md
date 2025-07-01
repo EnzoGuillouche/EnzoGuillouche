@@ -4,9 +4,7 @@
 
 <h3 align="center"> Developing goes with improving! </h3>
 
-- :sparkles: My Moonshot project is [**SeismoSense**](https://github.com/EnzoGuillouche/SeismoSense), an earthquake simulator.
-- 👩🏽‍🚀 My current school project is a [**Bubble app**](https://github.com/algosup/2024-2025-project-5-bubble-intermarche-team-6) as a **Quality Assurance**.
-- 🎮 Besides, I co-founded [**Woopsie Creations**](https://github.com/Woopsie-Creations) :)
+🎮 I co-founded [**Woopsie Creations**](https://github.com/Woopsie-Creations) :)
 
 <hr>
 <br>  
