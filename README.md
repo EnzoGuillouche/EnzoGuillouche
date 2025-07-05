@@ -59,39 +59,38 @@
 
 <h3>👨‍💻 Learned languages:</h3>
 
-<kbd><img src="https://img.icons8.com/?size=192&id=gVK745a4Vaur&format=png" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40px"></kbd>
+- Assembly x86
+- C
+- C++
+- HTML5
+- CSS3
+- JavaScript
+- React/Vite
+- TypeScript
+- Python
+- Flutter
 
-  <h3>📚 Studying in this moment:</h3>
+<h3>📚 Studying in this moment:</h3>
 
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="40px"></kbd>
+- Raspberry Pi
 
-  <h3>🧰 Tools:</h3>
+<h3>🧰 Tools:</h3>
 
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="40px"></kbd>
-<kbd><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40px"></kbd>
-<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40px"></kbd>
+- Git
+- GitHub
+- Figma
+- Canva
+- Aseprite
+- StackOverflow
+- Trello
+- Windows
+- MacOS
+- Visual Studio Code
+- MSDos
+- Android Studio
+- Arduino
+- Unity
+
 </details>
 
 
