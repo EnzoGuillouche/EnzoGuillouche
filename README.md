@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Enzo+Guillouche;A+Software+Engineering+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Enzo+GUILLOUCHE;A+Software+Engineering+Student)](https://git.io/typing-svg)
 
 ![Enzo Intro](https://github.com/EnzoGuillouche/EnzoGuillouche/raw/main/Enzo.svg)
 
