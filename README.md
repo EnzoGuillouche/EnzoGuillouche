@@ -73,7 +73,7 @@
 
 <h3>📚 Studying in this moment:</h3>
 
-- Raspberry Pi
+- APIs in Vue.js
 
 <h3>🧰 Tools:</h3>
 
@@ -86,6 +86,7 @@
 - Trello
 - Windows
 - MacOS
+- Raspberry Pi
 - Visual Studio Code
 - MSDos
 - Android Studio
