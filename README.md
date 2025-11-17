@@ -66,10 +66,11 @@
 - HTML5
 - CSS3
 - JavaScript
-- React/Vite
+- React
 - TypeScript
 - Python
 - Flutter
+- C#
 
 <h3>📚 Studying in this moment:</h3>
 
