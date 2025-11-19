@@ -63,14 +63,15 @@
 - Assembly x86
 - C
 - C++
+- C#
+- Python
+- Flutter
 - HTML5
 - CSS3
 - JavaScript
+- Typescript
+- Vite
 - React
-- TypeScript
-- Python
-- Flutter
-- C#
 
 <h3>📚 Studying in this moment:</h3>
 
@@ -87,9 +88,11 @@
 - Trello
 - Windows
 - MacOS
-- Raspberry Pi
-- Visual Studio Code
+- Linux
 - MSDos
+- Raspberry Pi
+- Visual Studio
+- Visual Studio Code
 - Android Studio
 - Arduino
 - Unity
