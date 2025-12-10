@@ -72,6 +72,9 @@ Here is [my Portfolio](https://enzoguillouche.github.io/)!<br>
 - Typescript
 - Vite
 - React
+- Vue.js
+- NodeJS
+- PHP / Symfony
 
 <h3>📚 Studying in this moment:</h3>
 
@@ -91,6 +94,8 @@ Here is [my Portfolio](https://enzoguillouche.github.io/)!<br>
 - Linux
 - MSDos
 - Raspberry Pi
+- SQL (MySQL)
+- NoSQL (MongoDB)
 - Visual Studio
 - Visual Studio Code
 - Android Studio
