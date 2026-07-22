@@ -78,7 +78,7 @@ Here is [my Portfolio](https://enzoguillouche.github.io/)!<br>
 
 <h3>📚 Studying in this moment:</h3>
 
-- APIs in Express
+- AI exploitation
 
 <h3>🧰 Tools:</h3>
 
