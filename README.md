@@ -78,7 +78,7 @@ Here is [my Portfolio](https://enzoguillouche.github.io/)!<br>
 
 <h3>📚 Studying in this moment:</h3>
 
-- AI exploitation
+- Team Management & BI
 
 <h3>🧰 Tools:</h3>
 
